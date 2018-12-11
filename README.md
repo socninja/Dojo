@@ -1,2 +1,3 @@
 # notes
-Cool hyper-links to fun stuff.
+
+All sorts of useful and useless information.
