@@ -1,10 +1,10 @@
 # Cool links go here
-# Wireguard VPN
+## Wireguard VPN
 * https://www.youtube.com/watch?v=n00ayGUdCaI
 * http://portal.altispeed.com/kb/faq.php?id=201
 * https://www.wireguard.com/install/
 
-# Android Apps to check out from David
+### Android Apps to check out from David
 * https://guardianproject.github.io/haven/
 * https://guardianproject.info/apps/orbot/
 * https://guardianproject.info/apps/orfox/
